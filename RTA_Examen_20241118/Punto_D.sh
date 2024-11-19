@@ -52,9 +52,9 @@ EOF
 # Crear archivo de variables
 echo "Creando archivo de variables..."
 cat <<EOF > $VARS_DIR/main.yml
-alumno_nombre: "Tu Nombre"
-alumno_apellido: "Tu Apellido"
-equipo_nombre: "Servidor DevOps"
+alumno_nombre: "Florencia Belen"
+alumno_apellido: "Andreu"
+equipo_nombre: "Ubuntu"
 EOF
 
 # Crear playbook principal
